@@ -1,0 +1,8 @@
+.bike-item {
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #dcdcdc;
+    justify-content: space-between;
+    margin: 0 auto 0 auto;
+}
